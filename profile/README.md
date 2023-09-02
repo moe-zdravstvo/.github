@@ -4,6 +4,8 @@ TBD интро за целиот проект.
 ## Архитектура
 Засега архитектурата е доста едноставна, имено:
 ![architecture_v2.png](./profile/architecture_v2.png)
+
+
 [Главното repo](https://github.com/moe-zdravstvo/moe-zdravstvo-main) ќе седи пред Meilisearch сервер, кој ексклузивно ќе се користи за чување на сите податоци, а позади Nginx Reverse Proxy кое ќе биде задолжено за статичен кешинг, LB, итн.
 
 
