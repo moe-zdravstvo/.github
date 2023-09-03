@@ -19,8 +19,8 @@
 Пример е [medicine-registry-scraper](https://lekovi.zdravstvo.gov.mk/drugsregister/overview) кој зема информации од Регистарот на лекови и медицински средства, а потоа ги додава во нашата база.
 
 ## Повеќе
- - [Архитектура](architecture.md)
- - [Функционалности](features.md)
+ - [Архитектура](profile/architecture.md)
+ - [Функционалности](profile/features.md)
 
 ## План (од прилика)
 - [ ] Еден целосно функционален скрејпер
