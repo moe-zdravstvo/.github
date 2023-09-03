@@ -16,7 +16,7 @@
 ## Како
 Во оваа GitHub организација ќе најдете повеќе repo-а кои ќе слушат за скрејпање на различни страни, а истите ќе ги индексираат за да можеме да ги искористиме во [главниот проект](https://github.com/moe-zdravstvo/moe-zdravstvo-main), кои ќе служи како главниот оркестратор на скрејпањето и веб интерфејсот.
 
-Пример е [medicine-registry-scraper](https://lekovi.zdravstvo.gov.mk/drugsregister/overview) кој зема информации од Регистарот на лекови и медицински средства, а потоа ги додава во нашата база.
+Пример е [medicine-registry-scraper](https://github.com/moe-zdravstvo/medicine-registry-scraper) кој зема информации од Регистарот на лекови и медицински средства, а потоа ги додава во нашата база.
 
 ## Повеќе
  - [Архитектура](profile/architecture.md)
